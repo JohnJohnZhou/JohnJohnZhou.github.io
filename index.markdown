@@ -12,3 +12,4 @@ image: /assets/images/john.PNG
 
 
 My name is Zhou (John) Zhou. I am living in Blacksburg, VA. I am currently a graduate student in the Department of Electrical and Computer Engineering at Virginia Tech. My research interests are in the broad area of neural networks, machine intelligence, and wireless communications.
+

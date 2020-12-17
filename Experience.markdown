@@ -4,22 +4,21 @@ title: Work Experience
 permalink: /Work Experience/
 order: 2
 ---
+<br/>
+### Virginia Tech 
+#### Blacksburg, VA 
+##### Research Assistant
+<br/>
 
-### Virginia Tech
+<br/>
+### Samsung Research America  
+#### Plano, TX
+##### Research Intern
+<br/>
 
-#### Research Assistant
+<br/>
+### Nokia Bell Labs 
+#### Shanghai, China
+##### Research Scientist
+<br/>
 
-Blacksburg, VA
-
-
-### Samsung Research America
-
-#### Research Intern
-
-Plano, TX
-
-### Nokia Bell Labs
-
-#### Research Scientist
-
-Shanghai, China
