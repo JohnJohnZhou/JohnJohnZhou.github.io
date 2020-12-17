@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/john.png
+image: /assets/images/john.PNG
 ---
 
 ![John Zhou]({{page.image|relative_url}})
