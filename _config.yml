@@ -53,3 +53,33 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+gems: ['jekyll/scholar']
+plugins_dir: [jekyll-scholar]
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year,month
+  order: descending
+
+  group_by: none
+  group_order: descending
+
+  source: ./bibliography
+  bibliography: ref.bib
+  bibliography_template: "{{ reference | replace_first: 'Zhou, Z.', '<b>Zhou, Z.</b>' }}"
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+
