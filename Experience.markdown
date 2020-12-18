@@ -7,18 +7,18 @@ order: 2
 <br/>
 ### Virginia Tech 
 #### Blacksburg, VA 
-##### Research Assistant
+#### Research Assistant
 <br/>
 
 <br/>
 ### Samsung Research America  
 #### Plano, TX
-##### Research Intern
+#### Research Intern
 <br/>
 
 <br/>
 ### Nokia Bell Labs 
 #### Shanghai, China
-##### Research Scientist
+#### Research Scientist
 <br/>
 
