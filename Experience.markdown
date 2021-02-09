@@ -6,7 +6,7 @@ order: 2
 ---
 ### Virginia Tech 
 #### Blacksburg, VA 
-#### Research Assistant
+#### Research/Teaching Assistant
 
 ### Samsung Research America  
 #### Plano, TX
