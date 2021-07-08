@@ -4,6 +4,10 @@ title: Work Experience
 permalink: /Work Experience/
 order: 2
 ---
+### Apple Inc. 
+#### San Diego, CA 
+#### Wireless Systems Engineer
+
 ### Virginia Tech 
 #### Blacksburg, VA 
 #### Research/Teaching Assistant
